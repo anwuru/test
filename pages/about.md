@@ -1,18 +1,18 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: hihi
+keywords: Anwar
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+还在装修。
 
-仰慕「优雅编码的艺术」。
+(¦3[▓▓] 晚安。
 
-坚信熟能生巧，努力改变人生。
+。
 
 ## 联系
 
@@ -23,7 +23,7 @@ permalink: /about/
 {% if site.url contains 'mazhuang.org' %}
 <li>
 微信公众号：<br />
-<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ site.url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" />
+<img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ site.url }}/assets/images/qrcode.jpg" alt="Anwar" />
 </li>
 {% endif %}
 </ul>
